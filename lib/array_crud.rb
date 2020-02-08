@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  four_array = [druid, Mage, Rogue, Hunter]
+  four_array = [druid, mageogue, Hunter]
 end
 
 def add_element_to_end_of_array(array, element)
